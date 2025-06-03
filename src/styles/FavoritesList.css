@@ -1,0 +1,10 @@
+
+.favorites-list {
+  margin: 20px;
+  text-align: center;
+}
+.favorites-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
